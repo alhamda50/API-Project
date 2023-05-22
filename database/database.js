@@ -4,6 +4,7 @@ const books = [
     title: "Tesla!!!",
     pubDate: "2021-08-05",
     language: "en",
+    numPage: 450,
     author: [1,2],
     publications: [1],
     category: ["tech" , "space" , "education"]

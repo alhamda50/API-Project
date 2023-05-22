@@ -43,6 +43,15 @@ PUT REQUEST:
   Update book details if author is changed.   - DONE
 
 DELETE REQUEST
-  1.Delete a book
-  2.Delete author from book
-  3.Delete author from book and related book from author
+  1.Delete a book - DONE
+  2.Delete author from book -
+  3.Delete author from book and related book from author - DONE
+
+MONGODB and MONGOOSE:
+  Schema - Blueprint of how data has to be constructed
+  MongoDB - Schemaless
+  Mongoose - has Schema
+  Mongoose - Validation , relationship with other data.
+  model - document model of MongoDB
+
+  Work flow:    Schema -> Model -> Use them
